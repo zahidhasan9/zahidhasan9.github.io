@@ -1,87 +1,51 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-/* Header area  */
-.header-area{
-    width: 100%;
-    height:220px ;
-    background-color:#01ffff ;
+body{
+    background-color: #d8dce2;
     
-}
-.header-area h1{
-    padding-top: 70px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 30px;
-  font-size: 45px;
-}
-/* Header area  */
-
-
-
-/* center area  */
-
-.center-area :after{
-    content: "";
-    display: block;
-    clear: both;
-}
-
-/* left area  */
-.left-area{
-
-    width: 35%;
-    height: 500px;
-    background: #0000fe;
-    float: left;
-}
-
-/* left area navber  */
-.center-area .left-area .navber li a {
-    text-decoration: none;
-    font-size: 30px;
-    coloro: #bf0f40;
-    font-family: tahoma;
-    padding-left: 20px;
+ }
+ 
+ 
+ header{
+ 
+     color: #486a8d;
+     font-size: 86px;
+     
+ 
+ }
+ 
+ 
+ .super1  input{
+     display: block;
+     background: #fcf7e1;
+     color: #c6c1af;
+     
+     border: solid #486a8d;
+     padding :10px 300px 10px 1px;
+ }
+  
+     
     
-}
-
-
-.right-area{
-    width: 65%;
-    height: 500px;
-    background: #f6f4dd;
-    float: left;
-    
-}
-
-
-.right-area h1{
-    text-align: center;
-    font-size: 30px;
-    font-family: tahoma;
-    padding-top: 30px;
-
-
-}
-
-
-
-
-/* footer area  */
-.footer-area{
-    width: 100%;
-    height: 220px;
-    background:#d3691f;
-    display: block;
-    float: left;
-
-
-}
-
-.footer-area p{
-    text-align: center;
-    font-size: 30px;
-    font-family: tahoma;
-    padding-top: 30px;
+ 
+ #submit{
+     
+     background: #486a8d;
+     color: white;
+     padding :10px 200px 10px 200px;
+     text-align: center;
+     display: block;
+ }
+ 
+ label{
+     color: #486a8d;
+ }
+ 
+ .form  {
+ 
+     width: 600px;
+     height: 400px;
+     margin: 200px auto;
+     display: block;
+     
+ }
+ 
+ 
+ 
