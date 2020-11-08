@@ -1,0 +1,46 @@
+*{  
+   margin: 0;
+   padding: 0;  
+   
+}
+
+
+.hader-area {
+    width: 100%;
+    height: 300;
+    background: #1abc9c;
+  margin: auto;
+  
+}
+.left-area{
+    width: 25%;
+    height:300;
+    background:#9b59b6;
+   
+    float: left;
+}
+.center-area{
+    width: 50%;
+    height: 300;
+    background:#e67e22;
+    float: left;
+}
+.right-area{
+    width: 25%;
+    height: 300;
+    background:#27ae60;
+    float: left;
+}
+.footer-area{
+    width: 100%;
+    height: 300;
+    background:#ecb009;
+    float: left;
+}
+
+.mid-area{
+    content: "  ";
+    clear: both;
+    display: block;
+}
+
